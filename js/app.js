@@ -73,6 +73,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
     setTimeout(() => {
       vid.style.display = "none";
-    }, 0);
+    }, 3000);
   });
 });
